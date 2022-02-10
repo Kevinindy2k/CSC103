@@ -15,6 +15,9 @@
 *Our logo is inspired by GIT version control. That is, we will be working mainly using GIT in order to get effective results.and work mainly as a team so that we can consult and solve problems together.*
 
 
+
+>TEAM MEMBER
+
 ![266592310_443249027519864_6658819383870461369_n](https://user-images.githubusercontent.com/83826754/153370521-d01510e5-ac75-4319-bb38-71967768667c.jpg)
 
 **64130500240 ||Pattarapon Koomphon || Kevinindy2k**
