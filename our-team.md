@@ -28,10 +28,14 @@
 
 
 
+###TODDY
 ![8](https://user-images.githubusercontent.com/83826754/153369853-715201c1-dc94-459e-8321-36602c0234c5.png)
 
+**Warinton Phiokhaw**  
+**Nickname : Tod**  
 
-
+*Hello, my name is Warinthon Phiokhaw My nickname is Tos, and I enjoy playing bass and playing video games. Why am I studying in CS?
+I'm quite interested in IT and computers, and I'd like to make a career out of it.*
 
 
 ![fam](https://user-images.githubusercontent.com/83826754/153369747-812bffb5-aaa5-4cb2-a2be-67b26d3cd7a9.jpg)
