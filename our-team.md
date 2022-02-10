@@ -92,4 +92,4 @@ Full stact developer because I enjoy when I coding or solving a problem.I want t
 **Nickname : Pause**  
 **Facebook url :  https://www.facebook.com/profile.php?id=100011078594254**
 
-*Hello guys! My name is Pongpat Osathanon, My nickname is Pause......I know my nickname is so weird 😆 because I have a twins brother his name is Play. I like to play electronic keyboards, work out, and play games when I'm free, I decided to study on this faculty at KMUTT is because I'm interested and like technology, want to create something new, and want to improve my English skill.*
+*Hello guys! My name is Pongpat Osathanon, My nickname is Pause......I know my nickname is so weird 😆 because I have a twins brother his name is Play. I'm 18 years old, but I will be 19 this year. I like to play electronic keyboards, work out, and play games when I'm free, I decided to study on this faculty at KMUTT is because I'm interested and like technology, want to create something new, and want to improve my English skill.*
