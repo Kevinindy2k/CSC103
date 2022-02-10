@@ -1,5 +1,5 @@
 # 8BIT TEAMS 
->No deadline no work
+>TEAM LOGO
 
 
 
