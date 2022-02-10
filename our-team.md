@@ -25,7 +25,7 @@
 **Student id: 64130500240**     
 **Pattarapon Koomphon**  
 **Nickname : kevin**   
-[Facebook : kevin](https://www.facebook.com/kevinindy2k/)  
+[Facebook ](https://www.facebook.com/kevinindy2k/)  
 
 
 *Hello, My name is Pattarapon Koomphon My nickname is Kevin, My hobbies is playing football. Why am I studying in CS?
@@ -40,7 +40,7 @@ I am enjoy coding and I want to be a Full stact developer what is Full-Stack?.Yo
   **Student id: 64130500246**  
 **Warinton Phiokhaw**  
 **Nickname : Tod**  
-**Facebook url :  https://www.facebook.com/live.mlg/**
+[Facebook ]( https://www.facebook.com/live.mlg/)
 
 *Hello, my name is Warinthon Phiokhaw My nickname is Tos, and I enjoy playing bass and playing video games. Why am I studying in CS?
 I'm quite interested in IT and computers, and I'd like to make a career out of it.*
@@ -53,7 +53,7 @@ I'm quite interested in IT and computers, and I'd like to make a career out of i
 **Student id: 64130500264**   
 **Pituchai Mitpakdee**  
 **Nickname : Fam**
-**Facebook url :  https://www.facebook.com/fam.pituchai**  
+[Facebook](https://www.facebook.com/fam.pituchai)  
 
 *Hello everyone!, My name is Pituchai Mitpakdee, and you can call me Fam, Right now I'm 20 years old .When I have a relax time, I usually playing the computer games, Listening to the music, Reading a book. and the reason that why I have been chosen this faculty ,because I want to be a cyber securities ,I know that is a hard job, but I will try my best.*
 
@@ -67,7 +67,7 @@ I'm quite interested in IT and computers, and I'd like to make a career out of i
 **Student id: 64130500249**   
 **Sitiporn Wimolpunyakul**  
 **Nickname : Neng**
-**Facebook url :  https://www.facebook.com/jigneng1/**
+[Facebook](https://www.facebook.com/jigneng1/)
 
 
 *Hello my name is Sitiporn Wimolpunyakul or you can call me "neng" I like to playing guitar and piano , I like to listen music , in the future I want to be 
@@ -81,7 +81,7 @@ Full stact developer because I enjoy when I coding or solving a problem.I want t
 **Student id: 64130500245**   
 **Varanyu Leelasopin**  
 **Nickname : Joe**  
-**Facebook url :  https://www.facebook.com/varanyu.leelasopin**
+[Facebook](https://www.facebook.com/varanyu.leelasopin)
 
 *Hello, my name is Varanyu Leelasopin. You can call me joe. I'm 18 years old. My hobbies are playing guitar, listening the music. I want to study at computer science because I'm interest about programming and in the future technology will be more comfortable to use in daily life.*
 
@@ -94,6 +94,6 @@ Full stact developer because I enjoy when I coding or solving a problem.I want t
 **Student id: 64130500238**   
 **Pongpat Osathanon**  
 **Nickname : Pause**  
-**Facebook url :  https://www.facebook.com/profile.php?id=100011078594254**
+[Facebook](https://www.facebook.com/profile.php?id=100011078594254)
 
 *Hello guys! My name is Pongpat Osathanon, My nickname is Pause......I know my nickname is so weird 😆 because I have a twins brother his name is Play. I'm 18 years old, but I will be 19 this year. I like to play electronic keyboards, work out, and play games when I'm free, I decided to study on this faculty at KMUTT is because I'm interested and like technology, want to create something new, and want to improve my English skill.*
