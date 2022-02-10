@@ -25,7 +25,9 @@
 **Student id: 64130500240**     
 **Pattarapon Koomphon**  
 **Nickname : kevin**   
-**Facebook url :  https://www.facebook.com/kevinindy2k/**
+**Facebook url :  https://www.facebook.com/kevinindy2k/**  
+*Hello, My name is Pattarapon Koomphon My nickname is Kevin, My hobbies is playing football. Why am I studying in CS?
+I am enjoy coding and I want to be a Full stact developer what is Full-Stack?.You have to know front-end Back-end and Database, lastly, I believe this university will make me become Full stact developer**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
