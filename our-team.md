@@ -38,8 +38,12 @@
 I'm quite interested in IT and computers, and I'd like to make a career out of it.*
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+## FAMBOYZ
 ![fam](https://user-images.githubusercontent.com/83826754/153369747-812bffb5-aaa5-4cb2-a2be-67b26d3cd7a9.jpg)
 
+**Pituchai Mitpakdee  Pituchai**
+**Nickname : Fam**
 
 
 
