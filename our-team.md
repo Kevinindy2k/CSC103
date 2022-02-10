@@ -66,7 +66,7 @@ I'm quite interested in IT and computers, and I'd like to make a career out of i
 **Facebook url :  https://www.facebook.com/jigneng1/**
 
 
-*Helo my name is Sitiporn Wimolpunyakul or you can call me "neng" I like to playing guitar and piano , I like to listen music , in the future I want to be 
+*Hello my name is Sitiporn Wimolpunyakul or you can call me "neng" I like to playing guitar and piano , I like to listen music , in the future I want to be 
 Full stact developer because I enjoy when I coding or solving a problem.I want to improve my coding skill and language skill then I will choose study at KMUTT in department of computer science*
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
