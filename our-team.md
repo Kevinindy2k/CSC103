@@ -52,7 +52,7 @@ I'm quite interested in IT and computers, and I'd like to make a career out of i
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##NENGZANA
+## NENGZANA
 ![giphy (1)](https://user-images.githubusercontent.com/83826754/153370358-3977bbf1-c405-4504-be45-d653eb0a62fc.gif)
 
 **Student id: 64130500249**   
