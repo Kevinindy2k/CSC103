@@ -62,6 +62,7 @@ I'm quite interested in IT and computers, and I'd like to make a career out of i
 **Student id: 64130500249**   
 **Sitiporn Wimolpunyakul**  
 **Nickname : Neng**
+**Facebook url :  https://www.facebook.com/jigneng1/**
 
 
 *Helo my name is Sitiporn Wimolpunyakul or you can call me "neng" I like to playing guitar and piano , I like to listen music , in the future I want to be 
