@@ -73,3 +73,16 @@ I'm quite interested in IT and computers, and I'd like to make a career out of i
 **Facebook url :  https://www.facebook.com/varanyu.leelasopin**
 
 *Hello, my name is Varanyu Leelasopin. You can call me joe. I'm 18 years old. My hobbies are playing guitar, listening the music. I want to study at computer science because I'm interest about programming and in the future technology will be more comfortable to use in daily life.*
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Tap to Pause 
+![9D95B9A1-1D4A-4D2C-B152-91F44DFD5069_1_105_c](https://user-images.githubusercontent.com/83826754/153377224-c442d2f0-9108-47ab-974a-57871a6a6cc6.jpeg)
+
+
+**Student id: 64130500238**   
+**Pongpat Osathanon**  
+**Nickname : Pause**  
+**Facebook url :  https://www.facebook.com/profile.php?id=100011078594254**
+
+*Hello, my name is Varanyu Leelasopin. You can call me joe. I'm 18 years old. My hobbies are playing guitar, listening the music. I want to study at computer science because I'm interest about programming and in the future technology will be more comfortable to use in daily life.*
