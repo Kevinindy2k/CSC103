@@ -71,3 +71,5 @@ I'm quite interested in IT and computers, and I'd like to make a career out of i
 **Varanyu Leelasopin**  
 **Nickname : Joe**  
 **Facebook url :  https://www.facebook.com/varanyu.leelasopin**
+
+*Hello, my name is Varanyu Leelasopin. You can call me joe. I'm 18 years old. My hobbies are playing guitar, listening the music. I want to study at computer science because I'm interest about programming and in the future technology will be more comfortable to use in daily life.*
