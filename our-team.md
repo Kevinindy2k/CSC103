@@ -25,7 +25,7 @@
 **Student id: 64130500240**     
 **Pattarapon Koomphon**  
 **Nickname : kevin**   
-[Facebook:kevin](https://www.facebook.com/kevinindy2k/)  
+[Facebook : kevin](https://www.facebook.com/kevinindy2k/)  
 
 
 *Hello, My name is Pattarapon Koomphon My nickname is Kevin, My hobbies is playing football. Why am I studying in CS?
