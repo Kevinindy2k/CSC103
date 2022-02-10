@@ -86,4 +86,4 @@ I'm quite interested in IT and computers, and I'd like to make a career out of i
 **Nickname : Pause**  
 **Facebook url :  https://www.facebook.com/profile.php?id=100011078594254**
 
-*Hello, my name is Varanyu Leelasopin. You can call me joe. I'm 18 years old. My hobbies are playing guitar, listening the music. I want to study at computer science because I'm interest about programming and in the future technology will be more comfortable to use in daily life.*
+*Hello guys! My name is Pongpat Osathanon, My nickname is Pause......I know my nickname is so weird 😆 because I have a twins brother his name is Play. I like to play electronic keyboards, work out, and play games when I'm free, I decided to study on this faculty at KMUTT is because I'm interested and like technology, want to create something new, and want to improve my English skill.*
