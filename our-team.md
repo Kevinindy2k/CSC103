@@ -9,6 +9,12 @@
 
 *Because the eight has a symbol similar to infinity. and means endless We can explain it is endless learning That's what our group's aim is to learn consistently. BIT represents a subset of information, and our quote is NoSleep, meaning that bedtime isn't important to us.* 
 
+
+### Why we use this logo
+
+*Our logo is inspired by GIT version control. That is, we will be working mainly using GIT in order to get effective results.and work mainly as a team so that we can consult and solve problems together *
+
+
 ![266592310_443249027519864_6658819383870461369_n](https://user-images.githubusercontent.com/83826754/153370521-d01510e5-ac75-4319-bb38-71967768667c.jpg)
 
 **64130500240 ||Pattarapon Koomphon || Kevinindy2k**
