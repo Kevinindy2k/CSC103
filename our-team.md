@@ -66,7 +66,7 @@ I'm quite interested in IT and computers, and I'd like to make a career out of i
 
 **Student id: 64130500249**   
 **Sitiporn Wimolpunyakul**  
-**Nickname : Neng**
+**Nickname : Neng**  
 [Facebook](https://www.facebook.com/jigneng1/)
 
 
