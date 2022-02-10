@@ -56,7 +56,8 @@ I'm quite interested in IT and computers, and I'd like to make a career out of i
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## NENGZANA
-![giphy (1)](https://user-images.githubusercontent.com/83826754/153370358-3977bbf1-c405-4504-be45-d653eb0a62fc.gif)
+
+![1970-01-01 07 00 00 33](https://user-images.githubusercontent.com/83826754/153377325-026395b1-aa39-4007-8e5a-199b7ae705bf.jpg)
 
 **Student id: 64130500249**   
 **Sitiporn Wimolpunyakul**  
